@@ -32,9 +32,9 @@ namespace ConsoleApp1.Ejercicios
         }
     }
 
-    class Program
+    public class ejercicio5
     {
-        static void Main()
+       public static void Main()
         {
             List<Mascota> mascotas = new List<Mascota>();
 

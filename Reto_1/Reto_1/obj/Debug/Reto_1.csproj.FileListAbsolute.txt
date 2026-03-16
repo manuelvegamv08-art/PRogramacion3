@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\bin\Debug\Reto_1.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\bin\Debug\Reto_1.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\bin\Debug\Reto_1.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\obj\Debug\Reto_1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\obj\Debug\Reto_1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\obj\Debug\Reto_1.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Reto_1\Reto_1\obj\Debug\Reto_1.pdb

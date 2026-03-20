@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicios_txt_1\\ejercicios_txt_1\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|solutionrelative:ejercicios_txt_1\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\ejercicios_txt_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|solutionrelative:ejercicios_txt_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicios_txt_1\\ejercicios_txt_1\\ejercicios\\ejercicio_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\ejercicios_txt_1\\ejercicios\\ejercicio_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|solutionrelative:ejercicios_txt_1\\ejercicios\\ejercicio_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicios_txt_1\\ejercicios_txt_1\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAF0364-8C3E-41D6-840C-0DCCE66AE965}|Ejercicios_txt_1\\Ejercicios_txt_1.csproj|solutionrelative:ejercicios_txt_1\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Ejercicio2.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\Ejercicios_txt_1\\Ejercicios\\Ejercicio2.cs",
               "RelativeDocumentMoniker": "Ejercicios_txt_1\\Ejercicios\\Ejercicio2.cs",
@@ -39,20 +39,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ejercicio_1.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\Ejercicios_txt_1\\Ejercicios\\Ejercicio_1.cs",
               "RelativeDocumentMoniker": "Ejercicios_txt_1\\Ejercicios\\Ejercicio_1.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\Ejercicios_txt_1\\Ejercicios\\Ejercicio_1.cs",
               "RelativeToolTip": "Ejercicios_txt_1\\Ejercicios\\Ejercicio_1.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAA6wDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T11:36:51.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicios_txt_1\\Ejercicios_txt_1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicios_txt_1\\Program.cs",

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|solutionrelative:ejercicio_poo_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|solutionrelative:ejercicio_poo_1\\ejercicios_(poo)\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|solutionrelative:ejercicio_poo_1\\ejercicios_(poo)\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|solutionrelative:ejercicio_poo_1\\ejercicios_(poo)\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\ejercicio_poo_1\\ejercicios_(poo)\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F585ED3-97AF-43AF-9DD8-CE319C9F695A}|Ejercicio_poo_1\\Ejercicio_poo_1.csproj|solutionrelative:ejercicio_poo_1\\ejercicios_(poo)\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "Ejercicio_poo_1\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\Ejercicio_poo_1\\Program.cs",
               "RelativeToolTip": "Ejercicio_poo_1\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T14:38:24.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Vendedor.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\Ejercicio_poo_1\\Ejercicios_(poo)\\Vendedor.cs",
               "RelativeDocumentMoniker": "Ejercicio_poo_1\\Ejercicios_(poo)\\Vendedor.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\Ejercicio_poo_1\\Ejercicios_(poo)\\Gerente.cs",
               "RelativeDocumentMoniker": "Ejercicio_poo_1\\Ejercicios_(poo)\\Gerente.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejercicio_poo_1\\Ejercicio_poo_1\\Ejercicios_(poo)\\Empleado.cs",
               "RelativeDocumentMoniker": "Ejercicio_poo_1\\Ejercicios_(poo)\\Empleado.cs",
@@ -77,8 +77,7 @@
               "RelativeToolTip": "Ejercicio_poo_1\\Ejercicios_(poo)\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:37:21.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:37:21.126Z"
             }
           ]
         }

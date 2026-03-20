@@ -45,7 +45,10 @@
   <ItemGroup>
     <Compile Include="Enum\TipoCategoria.cs" />
     <Compile Include="Interfas\IPrestable.cs" />
+    <Compile Include="Modelos\AudioLibro.cs" />
+    <Compile Include="Modelos\Libro.cs" />
     <Compile Include="Modelos\MaterialBiblioteca.cs" />
+    <Compile Include="Modelos\Revista.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

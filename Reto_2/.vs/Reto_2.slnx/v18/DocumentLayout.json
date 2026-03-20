@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\reto_2\\reto_2\\modelo\\paquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\reto_2\\modelo\\paquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|solutionrelative:reto_2\\modelo\\paquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|solutionrelative:reto_2\\enum\\tipo_de_viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\reto_2\\reto_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\reto_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9FBCC8-22E4-4A5C-B9FA-532A1FC62116}|Reto_2\\Reto_2.csproj|solutionrelative:reto_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Reto_2\\Enum\\tipo_de_viaje.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\Reto_2\\Enum\\tipo_de_viaje.cs",
               "RelativeToolTip": "Reto_2\\Enum\\tipo_de_viaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:50:58.477Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Reto_2\\Modelo\\Paquetes.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\Reto_2\\Modelo\\Paquetes.cs",
               "RelativeToolTip": "Reto_2\\Modelo\\Paquetes.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:43:58.472Z",
               "EditorCaption": ""
@@ -58,10 +58,9 @@
               "RelativeDocumentMoniker": "Reto_2\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Reto_2\\Reto_2\\Program.cs",
               "RelativeToolTip": "Reto_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:29:07.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T13:29:07.809Z"
             }
           ]
         }

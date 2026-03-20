@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\bin\Debug\SimuladorDeCredito.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\bin\Debug\SimuladorDeCredito.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\bin\Debug\SimuladorDeCredito.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\obj\Debug\SimuladorDeCredito.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\obj\Debug\SimuladorDeCredito.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\obj\Debug\SimuladorDeCredito.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\SimuladorDeCredito\SimuladorDeCredito\obj\Debug\SimuladorDeCredito.pdb

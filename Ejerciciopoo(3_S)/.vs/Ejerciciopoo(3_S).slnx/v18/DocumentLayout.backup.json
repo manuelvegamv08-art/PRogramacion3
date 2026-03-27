@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejerciciopoo(3_s)\\ejerciciopoo(3_s)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\enus\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\enus\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\modelo\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +19,12 @@
       "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\modelo\\platpprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\modelo\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\modelo\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\modelo\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\modelo\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\enus\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\enus\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\ejerciciopoo(3_s)\\ejerciciopoo(3_s)\\modelo\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|solutionrelative:ejerciciopoo(3_s)\\modelo\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2E1DCE-BB21-488F-98AD-32073AFD0CA6}|Ejerciciopoo(3_S)\\Ejerciciopoo(3_S).csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\ejerciciopoo(3_s)\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Program.cs",
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T12:38:04.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Postre.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Modelo\\Postre.cs",
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Modelo\\Postre.cs",
@@ -63,11 +63,12 @@
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Modelo\\Postre.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T12:37:02.373Z"
+              "WhenOpened": "2026-03-08T12:37:02.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlatpPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Modelo\\PlatpPrincipal.cs",
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Modelo\\PlatpPrincipal.cs",
@@ -75,19 +76,21 @@
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Modelo\\PlatpPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T12:35:58.098Z"
+              "WhenOpened": "2026-03-08T12:35:58.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EstadoOrden.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Enus\\EstadoOrden.cs",
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Enus\\EstadoOrden.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Enus\\EstadoOrden.cs",
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Enus\\EstadoOrden.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T12:23:20.459Z"
+              "WhenOpened": "2026-03-08T12:23:20.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Entrada.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Modelo\\Entrada.cs",
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Modelo\\Entrada.cs",
@@ -111,7 +114,8 @@
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Modelo\\Entrada.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T12:08:46.352Z"
+              "WhenOpened": "2026-03-08T12:08:46.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,9 +125,10 @@
               "RelativeDocumentMoniker": "Ejerciciopoo(3_S)\\Modelo\\Plato.cs",
               "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Ejerciciopoo(3_S)\\Ejerciciopoo(3_S)\\Modelo\\Plato.cs",
               "RelativeToolTip": "Ejerciciopoo(3_S)\\Modelo\\Plato.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T00:47:51.412Z"
+              "WhenOpened": "2026-03-08T00:47:51.412Z",
+              "EditorCaption": ""
             }
           ]
         }

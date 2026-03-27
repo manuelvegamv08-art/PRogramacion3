@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\obj\Debug\Ejerciciopoo(3_S).csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\obj\Debug\Ejerciciopoo(3_S).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\bin\Debug\Ejerciciopoo(3_S).exe.config
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\bin\Debug\Ejerciciopoo(3_S).exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\bin\Debug\Ejerciciopoo(3_S).pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\obj\Debug\Ejerciciopoo(3_S).exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\PRogramacion3\Ejerciciopoo(3_S)\Ejerciciopoo(3_S)\obj\Debug\Ejerciciopoo(3_S).pdb

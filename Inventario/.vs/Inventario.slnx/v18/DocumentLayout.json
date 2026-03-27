@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Inventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\inventario\\inventario\\modelado\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|solutionrelative:inventario\\modelado\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Inventario\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|c:\\users\\lenovo\\onedrive\\documentos\\github\\programacion3\\inventario\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91223298-C273-4E8A-9922-71893A3A1460}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Inventario\\Inventario\\Modelado\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventario\\Modelado\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Inventario\\Inventario\\Modelado\\Categoria.cs",
               "RelativeDocumentMoniker": "Inventario\\Modelado\\Categoria.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\PRogramacion3\\Inventario\\Inventario\\Program.cs",
               "RelativeDocumentMoniker": "Inventario\\Program.cs",

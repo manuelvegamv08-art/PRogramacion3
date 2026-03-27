@@ -31,7 +31,7 @@ namespace EjerciciosPoo_1_b
                 opcion = int.Parse(Console.ReadLine());
                 Console.Clear();
 
-                // 🔹 AGREGAR
+               
                 if (opcion == 1)
                 {
                     Console.WriteLine("1. Libro  2. Revista  3. AudioLibro");
